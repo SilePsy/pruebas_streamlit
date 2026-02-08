@@ -1,2 +1,5 @@
 # pruebas_streamlit
-Copy archives
+streamlit
+pickle
+pandas
+numpy
